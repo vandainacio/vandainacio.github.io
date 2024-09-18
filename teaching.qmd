@@ -1,0 +1,36 @@
+---
+title: Teaching
+---
+
+## Teaching @ UoE
+- [Statistical Modelling](http://www.drps.ed.ac.uk/16-17/dpt/cxmath11039.htm)<br>Spring 2017
+  
+- [Incomplete Data Analysis](http://www.drps.ed.ac.uk/20-21/dpt/cxmath11185.htm)<br>Fall 2017, 2018, 2019, 2020<br>
+  Videos recorded for the academic year of 2020/21, where delivery was fully online are available on [Youtube](https://www.youtube.com/@vandainacio8577/videos)<br> 
+  Materials available on [GitHub](https://github.com/vandainacio/incomplete_data_lectures)
+  
+- [Bayesian Data Analysis](http://www.drps.ed.ac.uk/17-18/dpt/cxmath11175.htm)<br>Spring 2018<br>
+  Materials available on [GitHub](https://github.com/vandainacio/Bayesian-Data-analysis)
+  
+- [Biostatistics](http://www.drps.ed.ac.uk/22-23/dpt/cxmath11230.htm)<br>Fall 2021, 2022<br>
+  Materials available on [GitHub](https://github.com/vandainacio/Biostatistics)
+  
+- [Applied Statistics](http://www.drps.ed.ac.uk/23-24/dpt/cxmath10096.htm)<br>Spring 2024<br> 
+  Materials available on [GitHub](https://github.com/vandainacio/Applied-Statistics)
+  
+## Teaching @ PUC Chile
+-  Advanced Computational Statistics<br> Spring 2013
+
+- Survival Analysis<br> Fall 2013
+
+- Introduction to Computational Statistics<br> Fall 2013, 2014, 2015, 2016
+
+- Stochastic Simulation<br> Spring 2015, 2016<br>
+  Materials available (in a first order Taylor approximation of Spanish) on [GitHub](https://github.com/vandainacio/stochastic_simulation)
+  
+- Actuarial Models I<br> Fall 2015
+
+- Actuarial Models II<br> Spring 2016
+
+## Short Courses
+- I have lectured short courses on *Introduction to Bayesian Nonparametrics* in Brazil, Spain, and Portugal. A recording is available on [Youtube](https://www.youtube.com/watch?v=lERjl6HJRxw&t=5512s) and materials from the most recent version are available on [GitHub](https://github.com/vandainacio/BNP_FCT)

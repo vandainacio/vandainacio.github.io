@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Vanda Inacio"
+  search: false
+  navbar: 
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: teaching.qmd
+        text: Teaching 
+      
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+
+editor: source
+

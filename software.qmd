@@ -1,0 +1,18 @@
+---
+title: Software
+---
+
+[R](https://cran.r-project.org/) package [ROCnReg](https://cran.r-project.org/web/packages/ROCnReg/index.html)<br>
+
+**ROCnReg** allows estimating the pooled ROC curve, the covariate-specific ROC curve, and the covariate-adjusted ROC curve by different methods, both from (semi) parametric and nonparametric perspectives and within Bayesian and frequentist paradigms. From the estimated ROC curve, several summary measures of discriminatory accuracy, such as the (partial) area under the ROC curve and the Youden index, can be obtained. **ROCnReg** also provides functions to obtain ROC-based optimal threshold values using several criteria (e.g., the Youden index). For the Bayesian methods, **ROCnReg** provides tools for assessing model fit via posterior predictive checks, while the model choice can be carried out via several information criteria. Numerical and graphical outputs are provided for all methods. **ROCnReg** is the only package implementing Bayesian procedures for ROC curves.
+
+Associated article was published in [The R Journal](https://journal.r-project.org/articles/RJ-2021-066/).
+
+If you use **ROCnReg**, please cite it as
+
+Rodríguez-Álvarez & Inácio, "ROCnReg: An R Package for Receiver Operating Characteristic Curve Inference With and Without Covariates", The R Journal, 2021
+
+A 50 minutes talk about ROCnReg is available on [Youtube](https://www.youtube.com/watch?v=ifsmVKafdVA&t=1839s)
+
+My [GitHub](https://github.com/vandainacio) page also contains code for several articles.
+
