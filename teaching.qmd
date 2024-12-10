@@ -33,4 +33,4 @@ title: Teaching
 - Actuarial Models II<br> Spring 2016
 
 ## Short Courses
-- I have lectured short courses on *Introduction to Bayesian Nonparametrics* in Brazil, Spain, and Portugal. A recording is available on [Youtube](https://www.youtube.com/watch?v=lERjl6HJRxw&t=5512s) and materials from the most recent version are available on [GitHub](https://github.com/vandainacio/BNP_FCT)
+- I have lectured short courses on *Introduction to Bayesian Nonparametrics* in Brazil, Spain, and Portugal. A recording is available on [Youtube](https://www.youtube.com/watch?v=lERjl6HJRxw&t=5512s) and materials from the most recent version are available on [GitHub](https://github.com/vandainacio/BNP_FCT).

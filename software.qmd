@@ -10,9 +10,9 @@ Associated article was published in [The R Journal](https://journal.r-project.or
 
 If you use **ROCnReg**, please cite it as
 
-Rodríguez-Álvarez & Inácio, "ROCnReg: An R Package for Receiver Operating Characteristic Curve Inference With and Without Covariates", The R Journal, 2021
+Rodríguez-Álvarez & Inácio, "ROCnReg: An R Package for Receiver Operating Characteristic Curve Inference With and Without Covariates", The R Journal, 2021.
 
-A 50 minutes talk about ROCnReg is available on [Youtube](https://www.youtube.com/watch?v=ifsmVKafdVA&t=1839s)
+A 50 minutes talk about ROCnReg is available on [Youtube](https://www.youtube.com/watch?v=ifsmVKafdVA&t=1839s).
 
 My [GitHub](https://github.com/vandainacio) page also contains code for several articles.
 
