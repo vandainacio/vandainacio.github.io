@@ -15,7 +15,7 @@ title: Teaching
 - [Biostatistics](http://www.drps.ed.ac.uk/22-23/dpt/cxmath11230.htm)<br>Fall 2021, 2022<br>
   Materials available on [GitHub](https://github.com/vandainacio/Biostatistics)
   
-- [Applied Statistics](http://www.drps.ed.ac.uk/23-24/dpt/cxmath10096.htm)<br>Spring 2024<br> 
+- [Applied Statistics](http://www.drps.ed.ac.uk/23-24/dpt/cxmath10096.htm)<br>Spring 2024, 2025<br> 
   Materials available on [GitHub](https://github.com/vandainacio/Applied-Statistics)
   
 ## Teaching @ PUC Chile

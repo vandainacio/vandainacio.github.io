@@ -3,16 +3,16 @@ title: Publications
 ---
 
 ## Articles submitted
-- Guevara, I. **Inacio, V.** and Gutierrez, L. (2024+). Bayesian model selection for analyzing for predictor-dependent directional data. Submitted.
-
--   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2024+). Density regression via Dirichlet process mixtures of normal structured additive regression models. Submitted. [ArXiv](https://arxiv.org/abs/2401.03881)
+-  Guevara, I. **Inacio, V.** and Gutierrez, L. (2024+). Bayesian model selection for analyzingpredictor-dependent directional data. Submitted.
 
 -   Margaritella, N., **Inacio, V.** and King, R. (2024+). A Bayesian functional PCA model with multilevel partition priors for group studies in neuroscience. Submitted. [ArXiv](https://arxiv.org/abs/2312.16739)
 
 ## Articles published
--   **Inacio, V.**, de Carvalho, M., Jackson, O., McMahon, S. and Cockell, C. (2024+). The need for large sample numbers to demonstrate that Martian environments are lifeless. Accepted at *Nature Astronomy*.
+-   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2024+). Density regression via Dirichlet process mixtures of normal structured additive regression models. Accepted at *Statistics and Computing*.  [ArXiv](https://arxiv.org/abs/2401.03881)
 
 -  Wade, S. and **Inacio, V.** (2024+). Dependent Bayesian mixture models: A predictive comparison. Accepted at *Statistical Science*. [ArXiv](https://arxiv.org/abs/2307.16298)
+
+-   **Inacio, V.**, de Carvalho, M., Jackson, O., McMahon, S. and Cockell, C. (2024). The need for large sample numbers to demonstrate that Martian environments are lifeless. *Nature Astronomy*, **8**, 1493--1495.  [\[Link\]](https://www.nature.com/articles/s41550-024-02443-0)
 
 -   Sharifi Far, S., **Inacio, V.**, Paulin, D., de Carvalho, M., Augustin, N., Allerhand, M. and Robertson, G. (2023). Consultancy Style Dissertations in Statistics and Data Science: Why and How. *The American Statistician*, **77**, 331--339. [\[Link\]](https://doi.org/10.1080/00031305.2022.2163689)
 

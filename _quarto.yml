@@ -16,6 +16,8 @@ website:
         text: Software
       - href: teaching.qmd
         text: Teaching 
+      - href: miscellanea.qmd
+        text: Miscellanea 
       
 format:
   html:
