@@ -3,14 +3,18 @@ title: Publications
 ---
 
 ## Articles submitted
--  Guevara, I. **Inacio, V.** and Gutierrez, L. (2024+). Bayesian model selection for analyzingpredictor-dependent directional data. Submitted.
+- Sewak, A., **Inacio, V.**, Wuu, J., Benatar, M. and Hothorn, T. (2025+).  Nonparanormal Modeling Framework for Prognostic Biomarker Assessment with Application to Amyotrophic Lateral Sclerosis. Submitted. [ArXiv](https://arxiv.org/abs/2502.20892)
+
+-  Guevara, I. **Inacio, V.** and Gutierrez, L. (2024+). Bayesian model selection for analyzin gpredictor-dependent directional data. Submitted.
 
 -   Margaritella, N., **Inacio, V.** and King, R. (2024+). A Bayesian functional PCA model with multilevel partition priors for group studies in neuroscience. Submitted. [ArXiv](https://arxiv.org/abs/2312.16739)
 
 ## Articles published
--   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2024+). Density regression via Dirichlet process mixtures of normal structured additive regression models. Accepted at *Statistics and Computing*.  [ArXiv](https://arxiv.org/abs/2401.03881)
+- Sharifi Far, S., **Inacio, V.**, Evkaya, O. and Lenzi, A. (2025+). Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest. Accepted at *Teaching Statistics*.
 
--  Wade, S. and **Inacio, V.** (2024+). Dependent Bayesian mixture models: A predictive comparison. Accepted at *Statistical Science*. [ArXiv](https://arxiv.org/abs/2307.16298)
+-   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2025). Density regression via Dirichlet process mixtures of normal structured additive regression models. *Statistics and Computing*, **35**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10567-0)
+
+-  Wade, S. and **Inacio, V.** (2025). Dependent Bayesian mixture models: A predictive comparison. *Statistical Science*, **40**, 81--108. [\[Link\]](https://projecteuclid.org/journals/statistical-science/volume-40/issue-1/Bayesian-Dependent-Mixture-Models-A-Predictive-Comparison-and-Survey/10.1214/24-STS966.short)
 
 -   **Inacio, V.**, de Carvalho, M., Jackson, O., McMahon, S. and Cockell, C. (2024). The need for large sample numbers to demonstrate that Martian environments are lifeless. *Nature Astronomy*, **8**, 1493--1495.  [\[Link\]](https://www.nature.com/articles/s41550-024-02443-0)
 
