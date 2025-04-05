@@ -12,7 +12,7 @@ title: Publications
 ## Articles published
 - Sharifi Far, S., **Inacio, V.**, Evkaya, O. and Lenzi, A. (2025+). Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest. Accepted at *Teaching Statistics*.
 
--   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2025). Density regression via Dirichlet process mixtures of normal structured additive regression models. *Statistics and Computing*, **35**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10567-0)
+-   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2025). Density regression via Dirichlet process mixtures of normal structured additive regression models. *Statistics and Computing*, **35**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10567-0) [Youtube](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s)
 
 -  Wade, S. and **Inacio, V.** (2025). Dependent Bayesian mixture models: A predictive comparison. *Statistical Science*, **40**, 81--108. [\[Link\]](https://projecteuclid.org/journals/statistical-science/volume-40/issue-1/Bayesian-Dependent-Mixture-Models-A-Predictive-Comparison-and-Survey/10.1214/24-STS966.short)
 
