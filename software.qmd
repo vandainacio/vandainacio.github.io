@@ -14,8 +14,8 @@ Rodríguez-Álvarez & Inacio, "ROCnReg: An R Package for Receiver Operating Char
 
 A 50 minutes talk about ROCnReg is available on [Youtube](https://www.youtube.com/watch?v=ifsmVKafdVA&t=1839s).
 
-My [GitHub](https://github.com/vandainacio) page also contains code for several articles.
-
 [R](https://cran.r-project.org/) package [DDPstar](https://cran.r-project.org/web/packages/DDPstar/index.html)<br>
 
 **DDPstar** implements a flexible, versatile, and computationally tractable model for density regression based on a single-weights dependent Dirichlet process mixture of normal distributions model for univariate continuous responses. The model assumes an additive structure for the mean of each mixture component and the effects of continuous covariates are captured through smooth nonlinear functions. The key components of our modelling approach are penalised B-splines and their bivariate tensor product extension. The proposed method can also easily deal with parametric effects of categorical covariates, linear effects of continuous covariates, interactions between categorical and/or continuous covariates, varying coefficient terms, and random effects.
+
+My [GitHub](https://github.com/vandainacio) page also contains code for several articles.

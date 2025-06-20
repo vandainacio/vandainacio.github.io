@@ -3,19 +3,22 @@ title: Publications
 ---
 
 ## Articles submitted
+- Parker, R.A., **Inacio, V.**, Huang, H., Valdes Castillo, L., Lee, B., Philips, B., Xu, S., Rodriguez, Moussaoui, S., Ospanov, B., Jackson, T., Pinnock, H., Dozier, M. and Weir, C.J. (2025+). Continuous Agreement Methods in Asthma Research: A Methodological Systematic Scoping Review. Submitted.
+
+- Rodriguez-Alvarez, M.X. and **Inacio, V.** (2025+). Penalised spline estimation of covariate-specific time-dependent ROC curves. [ArXiv](https://arxiv.org/abs/2506.13604v1)
+
 - Zhang, Z., **Inacio, V.** and de Carvalho, M. (2025+). The underlap coefficient as a measure of a biomarker’s discriminatory ability. [ArXiv](https://arxiv.org/abs/2504.12288)
 
 - Sewak, A., **Inacio, V.**, Wuu, J., Benatar, M. and Hothorn, T. (2025+).  Nonparanormal Modeling Framework for Prognostic Biomarker Assessment with Application to Amyotrophic Lateral Sclerosis. Submitted. [ArXiv](https://arxiv.org/abs/2502.20892)
 
-
 -   Margaritella, N., **Inacio, V.** and King, R. (2024+). A Bayesian functional PCA model with multilevel partition priors for group studies in neuroscience. Submitted. [ArXiv](https://arxiv.org/abs/2312.16739)
 
 ## Articles published
--  Guevara, I. **Inacio, V.** and Gutierrez, L. (2024+). Bayesian model selection for analyzing predictor-dependent directional data. Accepted at *Statistics and Computing*.
+-  Guevara, I. **Inacio, V.** and Gutierrez, L. (2025). Bayesian model selection for analyzing predictor-dependent directional data. *Statistics and Computing*, **35:119**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10655-1)
 
-- Sharifi Far, S., **Inacio, V.**, Evkaya, O. and Lenzi, A. (2025+). Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest. Accepted at *Teaching Statistics*. [doi](https://doi.org/10.1111/test.12404)
+- Sharifi Far, S., **Inacio, V.**, Evkaya, O. and Lenzi, A. (2025). Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest. Accepted at *Teaching Statistics*. [doi](https://doi.org/10.1111/test.12404)
 
--   Rodriguez-Alvarez, M.X., **Inacio, V** and Klein, N. (2025). Density regression via Dirichlet process mixtures of normal structured additive regression models. *Statistics and Computing*, **35**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10567-0) [Youtube](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s)
+-   Rodriguez-Alvarez, M.X., **Inacio, V.** and Klein, N. (2025). Density regression via Dirichlet process mixtures of normal structured additive regression models. *Statistics and Computing*, **35:47**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10567-0) [Youtube](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s)
 
 -  Wade, S. and **Inacio, V.** (2025). Dependent Bayesian mixture models: A predictive comparison. *Statistical Science*, **40**, 81--108. [\[Link\]](https://projecteuclid.org/journals/statistical-science/volume-40/issue-1/Bayesian-Dependent-Mixture-Models-A-Predictive-Comparison-and-Survey/10.1214/24-STS966.short)
 
