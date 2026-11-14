@@ -2,35 +2,38 @@
 title: Teaching
 ---
 
-## Teaching @ UoE
-- [Statistical Modelling](http://www.drps.ed.ac.uk/16-17/dpt/cxmath11039.htm)<br>Spring 2017
-  
-- [Incomplete Data Analysis](http://www.drps.ed.ac.uk/20-21/dpt/cxmath11185.htm)<br>Fall 2017, 2018, 2019, 2020<br>
-  Videos recorded for the academic year of 2020/21, where delivery was fully online are available on [Youtube](https://www.youtube.com/@vandainacio8577/videos)<br> 
-  Materials available on [GitHub](https://github.com/vandainacio/incomplete_data_lectures)
-  
-- [Bayesian Data Analysis](http://www.drps.ed.ac.uk/17-18/dpt/cxmath11175.htm)<br>Spring 2018<br>
-  Materials available on [GitHub](https://github.com/vandainacio/Bayesian-Data-analysis)
-  
-- [Biostatistics](http://www.drps.ed.ac.uk/22-23/dpt/cxmath11230.htm)<br>Fall 2021, 2022<br>
-  Materials available on [GitHub](https://github.com/vandainacio/Biostatistics)
-  
-- [Applied Statistics](http://www.drps.ed.ac.uk/23-24/dpt/cxmath10096.htm)<br>Spring 2024, 2025<br> 
-  Materials available on [GitHub](https://github.com/vandainacio/Applied-Statistics)
-  
-## Teaching @ PUC Chile
--  Advanced Computational Statistics<br> Spring 2013
+```{=html}
+<style>
+#quarto-document-content .btn-sm { padding: 0 .45em; font-size: .75em; margin: .1em .3em .1em 0; }
+</style>
+```
 
-- Survival Analysis<br> Fall 2013
+## University of Edinburgh (since 2016)
 
-- Introduction to Computational Statistics<br> Fall 2013, 2014, 2015, 2016
+| Course | Years | Materials |
+|:-------|:------|:----------|
+| [Applied Statistics](http://www.drps.ed.ac.uk/23-24/dpt/cxmath10096.htm) | 2024--2025 | [GitHub](https://github.com/vandainacio/Applied-Statistics){.btn .btn-outline-secondary .btn-sm} |
+| [Biostatistics](http://www.drps.ed.ac.uk/22-23/dpt/cxmath11230.htm) | 2021--2022 | [GitHub](https://github.com/vandainacio/Biostatistics){.btn .btn-outline-secondary .btn-sm} |
+| [Incomplete Data Analysis](http://www.drps.ed.ac.uk/20-21/dpt/cxmath11185.htm) | 2017--2020 | [GitHub](https://github.com/vandainacio/incomplete_data_lectures){.btn .btn-outline-secondary .btn-sm} [Videos (2020/21)](https://www.youtube.com/@vandainacio8577/videos){.btn .btn-outline-secondary .btn-sm} |
+| [Bayesian Data Analysis](http://www.drps.ed.ac.uk/17-18/dpt/cxmath11175.htm) | 2018 | [GitHub](https://github.com/vandainacio/Bayesian-Data-analysis){.btn .btn-outline-secondary .btn-sm} |
+| [Statistical Modelling](http://www.drps.ed.ac.uk/16-17/dpt/cxmath11039.htm) | 2017 | [GitHub](https://github.com/vandainacio/Statistical-Modelling){.btn .btn-outline-secondary .btn-sm} |
 
-- Stochastic Simulation<br> Spring 2015, 2016<br>
-  Materials available (in a first order Taylor approximation of Spanish) on [GitHub](https://github.com/vandainacio/stochastic_simulation)
-  
-- Actuarial Models I<br> Fall 2015
+The Incomplete Data Analysis videos were recorded in 2020/21, when teaching was fully online.
 
-- Actuarial Models II<br> Spring 2016
+## Pontificia Universidad Católica de Chile (2012--2016)
 
-## Short Courses
-- I have lectured short courses on *Introduction to Bayesian Nonparametrics* in Brazil, Spain, and Portugal. A recording is available on [Youtube](https://www.youtube.com/watch?v=lERjl6HJRxw&t=5512s) and materials from the most recent version are available on [GitHub](https://github.com/vandainacio/BNP_FCT).
+| Course | Years | Materials |
+|:-------|:------|:----------|
+| Introduction to Computational Statistics | 2013--2016 | |
+| Stochastic Simulation | 2015--2016 | [GitHub](https://github.com/vandainacio/stochastic_simulation){.btn .btn-outline-secondary .btn-sm} in a first-order Taylor approximation of Spanish |
+| Actuarial Models II | 2016 | |
+| Actuarial Models I | 2015 | |
+| Advanced Computational Statistics | 2013 | |
+| Survival Analysis | 2013 | |
+
+## Short courses
+
+**Introduction to Bayesian Nonparametrics**, taught in Brazil, Spain and Portugal.
+[GitHub](https://github.com/vandainacio/BNP_FCT){.btn .btn-outline-secondary .btn-sm} [Recording](https://www.youtube.com/watch?v=lERjl6HJRxw&t=5512s){.btn .btn-outline-secondary .btn-sm}
+
+The materials are from the most recent version of the course.

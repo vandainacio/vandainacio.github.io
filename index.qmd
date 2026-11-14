@@ -1,10 +1,24 @@
 ---
 title: "Vanda Inacio"
+subtitle: "Reader in Statistics at the University of Edinburgh"
 about:
   template: solana
   image-width: 12em
   image: files/vanda_photo.jpeg
   image-shape: round
+  links:
+    - icon: file-earmark-text
+      text: Curriculum vitae
+      href: files/cv_vanda.pdf
+    - icon: envelope
+      text: Email address
+      href: mailto:vanda.inacio@ed.ac.uk
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=nBjQ41EAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/vandainacio
 ---
 
 ------------------------------------------------------------------------
@@ -15,8 +29,4 @@ I am a Reader (equivalent to an Associate Professor outside the UK) at the Schoo
 
 My research primarily focuses on biostatistics, particularly on the statistical evaluation of biomarkers and diagnostic tests. I work in both Bayesian and frequentist (nonparametric) statistics, with a stronger preference for the former.
 
-My time is approximately equally split between research, teaching, and administration --- and I actually enjoy all three. My research may not --- or rather, will not--- change the world but I firmly believe that we can change lives through education that is free or, at the very least, accessible.
-
-My curriculum vitae is available [here](files/cv_vanda.pdf).
-
-**Email**: vanda.inacio\@ed.ac.uk
+My time is approximately equally split between research, teaching, and administration --- and I actually enjoy all three. My research may not --- or rather, will not --- change the world but I firmly believe that we can change lives through education that is free or, at the very least, accessible.

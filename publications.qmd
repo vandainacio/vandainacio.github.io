@@ -2,74 +2,157 @@
 title: Publications
 ---
 
+```{=html}
+<style>
+#quarto-document-content ul { list-style: none; padding-left: 0; }
+#quarto-document-content li { margin-bottom: 1.1em; line-height: 1.45; }
+#quarto-document-content .btn-sm { padding: 0 .45em; font-size: .75em; margin-left: .3em; }
+</style>
+```
+
 ## Articles submitted
-- Parker, R.A., **Inacio, V.**, Huang, H., Valdes Castillo, L., Lee, B., Philips, B., Xu, S., Rodriguez, Moussaoui, S., Ospanov, B., Jackson, T., Pinnock, H., Dozier, M. and Weir, C.J. (2025+). Continuous Agreement Methods in Asthma Research: A Methodological Systematic Scoping Review. Submitted.
 
-- Rodriguez-Alvarez, M.X. and **Inacio, V.** (2025+). Penalised spline estimation of covariate-specific time-dependent ROC curves. [ArXiv](https://arxiv.org/abs/2506.13604v1)
+- **Assessing Ethnic Bias in Stop and Search Across Police Forces in England and Wales**  
+  Pauptit, O., **Inacio, V.**, Lindgren, F. and Sterratt, D.C.
 
-- Zhang, Z., **Inacio, V.** and de Carvalho, M. (2025+). The underlap coefficient as a measure of a biomarker’s discriminatory ability. [ArXiv](https://arxiv.org/abs/2504.12288)
+- **The generalized underlap coefficient with an application in clustering**  
+  Zhang, Z., **Inacio, V.** and Wade, S.  
+  [arXiv](https://arxiv.org/abs/2602.19473){.btn .btn-outline-secondary .btn-sm}
 
-- Sewak, A., **Inacio, V.**, Wuu, J., Benatar, M. and Hothorn, T. (2025+).  Nonparanormal Modeling Framework for Prognostic Biomarker Assessment with Application to Amyotrophic Lateral Sclerosis. Submitted. [ArXiv](https://arxiv.org/abs/2502.20892)
-
--   Margaritella, N., **Inacio, V.** and King, R. (2024+). A Bayesian functional PCA model with multilevel partition priors for group studies in neuroscience. Submitted. [ArXiv](https://arxiv.org/abs/2312.16739)
+- **Continuous Agreement Methods in Asthma Research: A Methodological Systematic Scoping Review**  
+  Parker, R.A., **Inacio, V.**, Huang, H., Valdes Castillo, L., Lee, B., Philips, B., Xu, S., Rodriguez, Moussaoui, S., Ospanov, B., Jackson, T., Pinnock, H., Dozier, M. and Weir, C.J.
 
 ## Articles published
--  Guevara, I. **Inacio, V.** and Gutierrez, L. (2025). Bayesian model selection for analyzing predictor-dependent directional data. *Statistics and Computing*, **35:119**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10655-1)
 
-- Sharifi Far, S., **Inacio, V.**, Evkaya, O. and Lenzi, A. (2025). Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest. Accepted at *Teaching Statistics*. [doi](https://doi.org/10.1111/test.12404)
+- **[A comparative analysis of methodological practices used in capture–recapture population size estimation: opioid use disorder prevalence in New York State, 2020](https://doi.org/10.1093/aje/kwag161)**  
+  Bradley, H., Nguyen, T.M., Li, L., King, R., Kamanu, V., Sharifi Far, S., …, **Inacio, V.** and Rosenberg, E.S.  
+  *American Journal of Epidemiology*, **195**, 2950--2958, 2026.
 
--   Rodriguez-Alvarez, M.X., **Inacio, V.** and Klein, N. (2025). Density regression via Dirichlet process mixtures of normal structured additive regression models. *Statistics and Computing*, **35:47**.  [\[Link\]](https://link.springer.com/article/10.1007/s11222-025-10567-0) [Youtube](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s)
+- **[A Bayesian functional model with multilevel partition priors for group studies in neuroscience](https://doi.org/10.1515/ijb-2025-0053)**  
+  Margaritella, N., **Inacio, V.** and King, R.  
+  *International Journal of Biostatistics*, 2026.
 
--  Wade, S. and **Inacio, V.** (2025). Dependent Bayesian mixture models: A predictive comparison. *Statistical Science*, **40**, 81--108. [\[Link\]](https://projecteuclid.org/journals/statistical-science/volume-40/issue-1/Bayesian-Dependent-Mixture-Models-A-Predictive-Comparison-and-Survey/10.1214/24-STS966.short)
+- **[Penalised spline estimation of covariate-specific time-dependent ROC curves](https://doi.org/10.1002/sim.70718)**  
+  Rodriguez-Alvarez, M.X. and **Inacio, V.**  
+  *Statistics in Medicine*, **45**, e70718, 2026.
 
--   **Inacio, V.**, de Carvalho, M., Jackson, O., McMahon, S. and Cockell, C. (2024). The need for large sample numbers to demonstrate that Martian environments are lifeless. *Nature Astronomy*, **8**, 1493--1495.  [\[Link\]](https://www.nature.com/articles/s41550-024-02443-0)
+- **[Likelihood-based modeling of covariate-specific time-dependent receiver operating characteristic curves](https://doi.org/10.1177/09622802261445416)**  
+  Sewak, A., **Inacio, V.**, Wuu, J., Benatar, M. and Hothorn, T.  
+  *Statistical Methods in Medical Research*, **35**, 1325--1346, 2026.
 
--   Sharifi Far, S., **Inacio, V.**, Paulin, D., de Carvalho, M., Augustin, N., Allerhand, M. and Robertson, G. (2023). Consultancy Style Dissertations in Statistics and Data Science: Why and How. *The American Statistician*, **77**, 331--339. [\[Link\]](https://doi.org/10.1080/00031305.2022.2163689)
+- **[The underlap coefficient as a measure of a biomarker’s discriminatory ability](https://doi.org/10.1093/biomtc/ujag085)**  
+  Zhang, Z., **Inacio, V.** and de Carvalho, M.  
+  *Biometrics*, **82**, ujag085, 2026.
 
--   **Inacio, V.** and Rodriguez-Alvarez, M.X. (2022). The Covariate-Adjusted ROC Curve: The Concept and Its Importance, Review of Inferential Methods, and a New Bayesian Estimator. *Statistical Science*, **37**, 541--561. [\[Link\]](https://projecteuclid.org/journals/statistical-science/volume-37/issue-4/The-Covariate-Adjusted-ROC-Curve--The-Concept-and-Its/10.1214/21-STS839.short?tab=ArticleLink)
+- **[Hackathons in Statistics and Data Science Education and Experiences from ASA DataFest](https://doi.org/10.1111/test.12404)**  
+  Sharifi Far, S., **Inacio, V.**, Evkaya, O. and Lenzi, A.  
+  *Teaching Statistics*, **48**, S13--S21, 2026.
 
--   **Inacio, V.** and Garrido Guillen, J.E. (2022). Bayesian nonparametric inference for the overlap coefficient: With an application to disease diagnosis. *Statistics in Medicine*, **41**, 3879--3898. [\[Link\]](https://doi.org/10.1002/sim.9480)
+- **[Bayesian model selection for analyzing predictor-dependent directional data](https://link.springer.com/article/10.1007/s11222-025-10655-1)**  
+  Guevara, I., **Inacio, V.** and Gutierrez, L.  
+  *Statistics and Computing*, **35**, 119, 2025.
 
--   **Inacio, V.**, Lourenco, V., de Carvalho, M., Parker, R.A. and Gnanapragasam, V. (2021). Robust and flexible inference for the covariate-specific receiver operating characteristic curve. *Statistics in Medicine*, **40**, 5779--5795. [\[Link\]](https://doi.org/10.1002/sim.9153).
+- **[Density regression via Dirichlet process mixtures of normal structured additive regression models](https://link.springer.com/article/10.1007/s11222-025-10567-0)**  
+  Rodriguez-Alvarez, M.X., **Inacio, V.** and Klein, N.  
+  *Statistics and Computing*, **35**, 47, 2025. [YouTube](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s){.btn .btn-outline-secondary .btn-sm}
 
--   Rodriguez-Alvarez, M.X. and **Inacio, V.** (2021). ROCnReg: An R Package for Receiver Operating Characteristic Curve Inference With and Without Covariates. *The R Journal*, **13**, 525--555. [\[Link\]](https://doi.org/10.32614/RJ-2021-066)
+- **[Bayesian dependent mixture models: A predictive comparison and survey](https://projecteuclid.org/journals/statistical-science/volume-40/issue-1/Bayesian-Dependent-Mixture-Models-A-Predictive-Comparison-and-Survey/10.1214/24-STS966.short)**  
+  Wade, S. and **Inacio, V.**  
+  *Statistical Science*, **40**, 81--108, 2025.
 
--   Margaritella, N., **Inacio, V.** and King, R. (2021). Parameter clustering in Bayesian functional principal component analysis of neuroscientific data. *Statistics in Medicine*, **40**, 167--184. [\[Link\]](https://doi.org/10.1002/sim.8768)
+- **[The need for large sample numbers to demonstrate that Martian environments are lifeless](https://www.nature.com/articles/s41550-024-02443-0)**  
+  **Inacio, V.**, de Carvalho, M., Jackson, O., McMahon, S. and Cockell, C.  
+  *Nature Astronomy*, **8**, 1493--1495, 2024.
 
--   **Inacio, V.**, Rodriguez-Alvarez, M.X. and Gayoso-Diz, P. (2021). Statistical Evaluation of Medical Tests. *Annual Review of Statistics and its Application*, **8**, 41--184. [\[Link\]](https://doi.org/10.1146/annurev-statistics-040720-022432)
+- **[Consultancy Style Dissertations in Statistics and Data Science: Why and How](https://doi.org/10.1080/00031305.2022.2163689)**  
+  Sharifi Far, S., **Inacio, V.**, Paulin, D., de Carvalho, M., Augustin, N., Allerhand, M. and Robertson, G.  
+  *The American Statistician*, **77**, 331--339, 2023.
 
--   Parker, R.A., Scott, C. , **Inacio, V.** and Stevens, N.T. (2020). Using multiple agreement methods for continuous repeated measures data: A tutorial for practitioners. *BMC Medical Research Methodology*, **20**, 1--14. [\[Link\]](https://link.springer.com/article/10.1186/s12874-020-01022-x)
+- **[The Covariate-Adjusted ROC Curve: The Concept and Its Importance, Review of Inferential Methods, and a New Bayesian Estimator](https://projecteuclid.org/journals/statistical-science/volume-37/issue-4/The-Covariate-Adjusted-ROC-Curve--The-Concept-and-Its/10.1214/21-STS839.short?tab=ArticleLink)**  
+  **Inacio, V.** and Rodriguez-Alvarez, M.X.  
+  *Statistical Science*, **37**, 541--561, 2022.
 
--   Castro, L.M., Wang, W.L., Lachos, V.H., **Inacio de Carvalho, V.** and Bayes, C.L. (2019). Bayesian semiparametric modeling for HIV longitudinal data with censoring and skewness. *Statistical Methods in Medical Research*, **28**, 1457--1476. [\[Link\]](https://doi.org/10.1177/0962280218760360)
+- **[Bayesian nonparametric inference for the overlap coefficient: With an application to disease diagnosis](https://doi.org/10.1002/sim.9480)**  
+  **Inacio, V.** and Garrido Guillen, J.E.  
+  *Statistics in Medicine*, **41**, 3879--3898, 2022.
 
--   Hanson, T.E., Zhou, H. and **Inacio de Carvalho, V.** (2018). Bayesian nonparametric spatially smoothed density estimation. *New Frontiers of Biostatistics and Bioinformatics* (pp 87--105). Springer. [\[Link\]](https://link.springer.com/chapter/10.1007/978-3-319-99389-8_4)
+- **[Robust and flexible inference for the covariate-specific receiver operating characteristic curve](https://doi.org/10.1002/sim.9153)**  
+  **Inacio, V.**, Lourenco, V., de Carvalho, M., Parker, R.A. and Gnanapragasam, V.  
+  *Statistics in Medicine*, **40**, 5779--5795, 2021.
 
--   **Inacio de Carvalho, V.** and Rodriguez-Alvarez, M.X. (2018). Statistical Evaluation of Medical Diagnostic Tests. *Wiley StatsRef: Statistics Reference Online* (pp 1--13). [\[Link\]](https://doi.org/10.1002/9781118445112.stat08063)
+- **[ROCnReg: An R Package for Receiver Operating Characteristic Curve Inference With and Without Covariates](https://doi.org/10.32614/RJ-2021-066)**  
+  Rodriguez-Alvarez, M.X. and **Inacio, V.**  
+  *The R Journal*, **13**, 525--555, 2021.
 
--   **Inacio de Carvalho, V.**, de Carvalho, M. and Branscum, A.J. (2018). Bayesian bootstrap inference for the receiver operating characteristic surface. *Stat*, **7**, e211. [\[Link\]](https://doi.org/10.1002/sta4.21)
+- **[Parameter clustering in Bayesian functional principal component analysis of neuroscientific data](https://doi.org/10.1002/sim.8768)**  
+  Margaritella, N., **Inacio, V.** and King, R.  
+  *Statistics in Medicine*, **40**, 167--184, 2021.
 
--   **Inacio de Carvalho, V.** and Branscum, A.J. (2018). Bayesian nonparametric inference for the three-class Youden index and its associated optimal cutoff points. *Statistical Methods in Medical Research*, **27**, 689--700. [\[Link\]](https://doi.org/10.1177/0962280217742538)
+- **[Statistical Evaluation of Medical Tests](https://doi.org/10.1146/annurev-statistics-040720-022432)**  
+  **Inacio, V.**, Rodriguez-Alvarez, M.X. and Gayoso-Diz, P.  
+  *Annual Review of Statistics and Its Application*, **8**, 41--67, 2021.
 
--   **Inacio de Carvalho, V.**, de Carvalho, M. and Branscum, A.J. (2017). Nonparametric Bayesian covariate-adjusted estimation of the Youden index. *Biometrics*, **73**, 1279--1288. [\[Link\]](https://doi.org/10.1111/biom.12686)
+- **[Using multiple agreement methods for continuous repeated measures data: A tutorial for practitioners](https://link.springer.com/article/10.1186/s12874-020-01022-x)**  
+  Parker, R.A., Scott, C., **Inacio, V.** and Stevens, N.T.  
+  *BMC Medical Research Methodology*, **20**, 154, 2020.
 
--   **Inacio de Carvalho, V.**, de Carvalho, M., Alonzo, T.A. and Gonzalez-Manteiga, W. (2016). Functional covariate-adjusted partial area under the specificity-ROC curve with an application to metabolic syndrome diagnosis. *Annals of Applied Statistics*, **10**, 1472--1495. [\[Link\]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-3/Functional-covariate-adjusted-partial-area-under-the-specificity-ROC-curve/10.1214/16-AOAS943.full)
+- **[Bayesian semiparametric modeling for HIV longitudinal data with censoring and skewness](https://doi.org/10.1177/0962280218760360)**  
+  Castro, L.M., Wang, W.L., Lachos, V.H., **Inacio de Carvalho, V.** and Bayes, C.L.  
+  *Statistical Methods in Medical Research*, **28**, 1457--1476, 2019.
 
--   **Inacio de Carvalho, V.**, de Carvalho, M. and Jara, A. (2015). Bayesian nonparametric approaches for ROC curve inference. *Nonparametric Bayesian Inference in Biostatistics* (pp 327--344). [\[Link\]](https://link.springer.com/chapter/10.1007/978-3-319-19518-6_16)
+- **[Bayesian nonparametric spatially smoothed density estimation](https://link.springer.com/chapter/10.1007/978-3-319-99389-8_4)**  
+  Hanson, T.E., Zhou, H. and **Inacio de Carvalho, V.**  
+  *New Frontiers of Biostatistics and Bioinformatics* (pp 87--105). Springer, 2018.
 
--   **Inacio de Carvalho, V.**, Jara, A., Hanson, T.E., and de Carvalho, M. (2013). Bayesian nonparametric ROC regression modeling. *Bayesian Analysis*, **8**, 623--646. [\[Link\]](https://projecteuclid.org/journals/bayesian-analysis/volume-8/issue-3/Bayesian-Nonparametric-ROC-Regression-Modeling/10.1214/13-BA825.full)
+- **[Statistical Evaluation of Medical Diagnostic Tests](https://doi.org/10.1002/9781118445112.stat08063)**  
+  **Inacio de Carvalho, V.** and Rodriguez-Alvarez, M.X.  
+  *Wiley StatsRef: Statistics Reference Online* (pp 1--13), 2018.
 
--   **Inacio, V.**, Gonzalez-Manteiga, W., Febrero-Bande, M., Gude, F., Alonzo, T.A. and Cadarso-Suarez, C. (2012). Extending induced ROC methodology to the functional context. *Biostatistics*, **13**, 594--608. [\[Link\]](https://doi.org/10.1093/biostatistics/kxs007)
+- **[Bayesian bootstrap inference for the receiver operating characteristic surface](https://doi.org/10.1002/sta4.211)**  
+  **Inacio de Carvalho, V.**, de Carvalho, M. and Branscum, A.J.  
+  *Stat*, **7**, e211, 2018.
 
--   **Inacio, V.**, Turkman, M.A., Nakas, C.T. and Alonzo, T. A. (2011). Nonparametric Bayesian estimation of the three-way receiver operating characteristic surface. *Biometrical Journal*, **53**, 1011--1024. [\[Link\]](https://doi.org/10.1002/bimj.201100070)
+- **[Bayesian nonparametric inference for the three-class Youden index and its associated optimal cutoff points](https://doi.org/10.1177/0962280217742538)**  
+  **Inacio de Carvalho, V.** and Branscum, A.J.  
+  *Statistical Methods in Medical Research*, **27**, 689--700, 2018.
+
+- **[Nonparametric Bayesian covariate-adjusted estimation of the Youden index](https://doi.org/10.1111/biom.12686)**  
+  **Inacio de Carvalho, V.**, de Carvalho, M. and Branscum, A.J.  
+  *Biometrics*, **73**, 1279--1288, 2017.
+
+- **[Functional covariate-adjusted partial area under the specificity-ROC curve with an application to metabolic syndrome diagnosis](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-3/Functional-covariate-adjusted-partial-area-under-the-specificity-ROC-curve/10.1214/16-AOAS943.full)**  
+  **Inacio de Carvalho, V.**, de Carvalho, M., Alonzo, T.A. and Gonzalez-Manteiga, W.  
+  *Annals of Applied Statistics*, **10**, 1472--1495, 2016.
+
+- **[Bayesian nonparametric approaches for ROC curve inference](https://link.springer.com/chapter/10.1007/978-3-319-19518-6_16)**  
+  **Inacio de Carvalho, V.**, Jara, A. and de Carvalho, M.  
+  *Nonparametric Bayesian Inference in Biostatistics* (pp 327--344). Springer, 2015.
+
+- **[Bayesian nonparametric ROC regression modeling](https://projecteuclid.org/journals/bayesian-analysis/volume-8/issue-3/Bayesian-Nonparametric-ROC-Regression-Modeling/10.1214/13-BA825.full)**  
+  **Inacio de Carvalho, V.**, Jara, A., Hanson, T.E. and de Carvalho, M.  
+  *Bayesian Analysis*, **8**, 623--646, 2013.
+
+- **[Extending induced ROC methodology to the functional context](https://doi.org/10.1093/biostatistics/kxs007)**  
+  **Inacio, V.**, Gonzalez-Manteiga, W., Febrero-Bande, M., Gude, F., Alonzo, T.A. and Cadarso-Suarez, C.  
+  *Biostatistics*, **13**, 594--608, 2012.
+
+- **[Nonparametric Bayesian estimation of the three-way receiver operating characteristic surface](https://doi.org/10.1002/bimj.201100070)**  
+  **Inacio, V.**, Turkman, M.A., Nakas, C.T. and Alonzo, T.A.  
+  *Biometrical Journal*, **53**, 1011--1024, 2011.
 
 ## Contributions to Papers with Discussion
 
--   **Inacio, V.**, de Carvalho, M. and Turkman, M. A. (2012). A discussion on "Probabilistic Index Models" by Thas, O., de Neve, J., Lieven, C. and Ottoy, J.P. in *Journal of the Royal Statistical Society, Ser. B*, **74**, 623--671. [\[Link\]](https://doi.org/10.1111/j.1467-9868.2011.01020.x)
+- **[Invited discussion of *Dependent Dirichlet Processes* by S.N. MacEachern](https://doi.org/10.1214/26-BA1610)**  
+  Barrientos, A.F. and **Inacio, V.**  
+  *Bayesian Analysis*, 2026. [YouTube](https://www.youtube.com/watch?v=XYmNskm3O80&t=3641s){.btn .btn-outline-secondary .btn-sm}
+
+- **[Contributed discussion of *Probabilistic Index Models* by O. Thas, J. De Neve, L. Clement and J.P. Ottoy](https://doi.org/10.1111/j.1467-9868.2011.01020.x)**  
+  **Inacio, V.**, de Carvalho, M. and Turkman, M.A.  
+  *Journal of the Royal Statistical Society, Ser. B*, **74**, 623--671, 2012.
 
 ## Edited Special Issue
 
--   **Inacio de Carvalho, V.**, de Carvalho, M. and Gonzalez-Manteiga, W. (2014). "Statistical Models for Diagnosis and ROC Analysis". *RevStat--Statistical Journal*, **12** [\[Link\]](https://revstat.ine.pt/index.php/REVSTAT/issue/view/32)
+- **[Statistical Models for Diagnosis and ROC Analysis](https://revstat.ine.pt/index.php/REVSTAT/issue/view/32)**  
+  **Inacio de Carvalho, V.**, de Carvalho, M. and Gonzalez-Manteiga, W.  
+  Special issue of *RevStat--Statistical Journal*, **12**, 2014.
 
-## PhD thesis
-
--   Semiparametric and nonparametric modeling of diagnostic data (2012). [\[Link\]](https://repositorio.ul.pt/handle/10451/6641)

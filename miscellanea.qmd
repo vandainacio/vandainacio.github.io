@@ -3,17 +3,30 @@ title: Miscellanea
 ---
 
 ## Service to the Profession
-- **Associate Editor** for *Statistics in Medicine* (since 02/2025) [\[Link\]](https://onlinelibrary.wiley.com/page/journal/10970258/homepage/editorialboard.html)
 
-- **Associate Editor** for *Statistical Modelling* (since 02/2025) [\[Link\]](https://journals.sagepub.com/editorial-board/SMJ)
+### Editorial roles
+- **Associate Editor**, *Statistics and Computing* (since 06/2026). [\[Link\]](https://link.springer.com/journal/11222/editorial-board)
+- **Associate Editor**, *Statistics in Medicine* (since 02/2025). [\[Link\]](https://onlinelibrary.wiley.com/page/journal/10970258/homepage/editorialboard.html)
+- **Associate Editor**, *Statistical Modelling* (since 02/2025). [\[Link\]](https://journals.sagepub.com/editorial-board/SMJ)
+- **Book Reviews Editor**, *Journal of Agricultural, Biological and Environmental Statistics* (since 02/2024). [\[Link\]](https://link.springer.com/journal/13253)
 
-- **Book reviews editor ** for *The Journal of Agricultural, Biological and Environmental Statistics* (since 02/2024). [\[Link\]](https://link.springer.com/journal/13253) 
+### Elected positions
+- **Program Chair**, Section on Bayesian Education Research and Practice (BERaP), International Society for Bayesian Analysis (01/2026--12/2027). [\[Link\]](https://berap-isba.github.io/)
+- **Executive Committee member**, Statistical Modelling Society (01/2025--12/2026). [\[Link\]](http://www.statmod.org/)
 
-- **Elected member of the executive committee** of the *Statistical Modelling Society* (01/2025--12/2026). [\[Link\]](http://www.statmod.org/)
+### Scientific committees
+- **Scientific Committee**, International Workshop on Statistical Modelling (IWSM) 2027. [\[Link\]](https://iwsm2027.com/program/committees.html)
+- **Scientific Program Committee**, International Joint Conference CFE-CMStatistics: 20th edition, 2026 [\[Link\]](https://www.cmstatistics.org/CFECMStatistics2026/committees.php); 19th edition, 2025 [\[Link\]](https://www.cmstatistics.org/CFECMStatistics2025/committees.php).
 
-- **External examiner** at the University of Stirling (10/2024--08/2028).
+### External examining
+- **External Examiner**, University of Stirling (10/2024--08/2028).
 
 ## Quotes
-- *"The past is a foreign country; they do things differently there."* L.P. Hartley
 
-- *"Where all think alike, no one thinks very much."* W Lippmann
+> The past is a foreign country; they do things differently there.
+>
+> --- L.P. Hartley, *The Go-Between*
+
+> Where all think alike, no one thinks very much.
+>
+> --- Walter Lippmann
