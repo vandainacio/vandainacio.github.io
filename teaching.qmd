@@ -1,5 +1,6 @@
 ---
 title: Teaching
+tbl-colwidths: [45, 15, 40]   # same column widths for both tables
 ---
 
 ```{=html}

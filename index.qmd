@@ -30,3 +30,11 @@ I am a Reader (equivalent to an Associate Professor outside the UK) at the Schoo
 My research primarily focuses on biostatistics, particularly on the statistical evaluation of biomarkers and diagnostic tests. I work in both Bayesian and frequentist (nonparametric) statistics, with a stronger preference for the former.
 
 My time is approximately equally split between research, teaching, and administration --- and I actually enjoy all three. My research may not --- or rather, will not --- change the world but I firmly believe that we can change lives through education that is free or, at the very least, accessible.
+
+## Research
+
+My work centres on how well diagnostic tests and biomarkers distinguish between disease stages, and on how factors such as age and gender change that accuracy.
+
+I pioneered the development of methods for inference about several summary measures of diagnostic accuracy --- the partial area under the ROC curve, the Youden index and the covariate-adjusted ROC curve --- that make no assumptions about the distribution of test outcomes in each population, or about how covariates relate to those outcomes. I was also the first to develop summary measures of diagnostic accuracy that account for a functional (curve-valued) covariate ([*Biostatistics*, 2012](https://doi.org/10.1093/biostatistics/kxs007)).
+
+Many of these methods are freely available in the R package [ROCnReg](software.qmd). More details are on the [Publications](publications.qmd) and [Software](software.qmd) pages.

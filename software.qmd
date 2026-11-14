@@ -4,7 +4,7 @@ title: Software
 
 ## ROCnReg
 
-*ROC curve inference with and without covariates* · R package · [CRAN](https://cran.r-project.org/web/packages/ROCnReg/index.html) · [Paper](https://journal.r-project.org/articles/RJ-2021-066/) · [Talk (YouTube, 50 min)](https://www.youtube.com/watch?v=ifsmVKafdVA&t=1839s)
+*ROC curve inference with and without covariates* · R package · [CRAN](https://cran.r-project.org/web/packages/ROCnReg/index.html) · [Paper](https://journal.r-project.org/articles/RJ-2021-066/) · [Talk (YouTube, 50 min)](https://www.youtube.com/watch?v=ifsmVKafdVA&t=1839s) · <img src="https://cranlogs.r-pkg.org/badges/grand-total/ROCnReg" alt="Total CRAN downloads of ROCnReg" style="vertical-align: middle;">
 
 **ROCnReg** estimates ROC curves and related summaries of discriminatory accuracy, using both frequentist and Bayesian methods. When it was released, it was the only R package implementing Bayesian procedures for ROC curves.
 
@@ -23,7 +23,7 @@ install.packages("ROCnReg")
 
 ## DDPstar
 
-*Bayesian nonparametric density regression* · R package · [CRAN](https://cran.r-project.org/web/packages/DDPstar/index.html) · [Paper](https://link.springer.com/article/10.1007/s11222-025-10567-0) · [Talk (YouTube)](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s)
+*Bayesian nonparametric density regression* · R package · [CRAN](https://cran.r-project.org/web/packages/DDPstar/index.html) · [Paper](https://link.springer.com/article/10.1007/s11222-025-10567-0) · [Talk (YouTube)](https://www.youtube.com/watch?v=qPPXAezt8ys&t=2805s) · <img src="https://cranlogs.r-pkg.org/badges/grand-total/DDPstar" alt="Total CRAN downloads of DDPstar" style="vertical-align: middle;">
 
 **DDPstar** fits a flexible and computationally tractable model for density regression, based on a single-weights dependent Dirichlet process mixture of normal distributions for a univariate continuous response.
 
