@@ -37,4 +37,4 @@ The Incomplete Data Analysis videos were recorded in 2020/21, when teaching was 
 **Introduction to Bayesian Nonparametrics**, taught in Brazil, Spain and Portugal.
 [GitHub](https://github.com/vandainacio/BNP_FCT){.btn .btn-outline-secondary .btn-sm} [Recording](https://www.youtube.com/watch?v=lERjl6HJRxw&t=5512s){.btn .btn-outline-secondary .btn-sm}
 
-The materials are from the most recent version of the course.
+The GitHub materials are from the most recent version of the course.

@@ -60,42 +60,56 @@
     "href": "teaching.html#short-courses",
     "title": "Teaching",
     "section": "Short courses",
-    "text": "Short courses\nIntroduction to Bayesian Nonparametrics, taught in Brazil, Spain and Portugal. GitHub Recording\nThe materials are from the most recent version of the course."
+    "text": "Short courses\nIntroduction to Bayesian Nonparametrics, taught in Brazil, Spain and Portugal. GitHub Recording\nThe GitHub materials are from the most recent version of the course."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Vanda Inacio",
     "section": "About me",
-    "text": "About me\nI am a Reader (equivalent to an Associate Professor outside the UK) at the School of Mathematics of the University of Edinburgh.\nMy research primarily focuses on biostatistics, particularly on the statistical evaluation of biomarkers and diagnostic tests. I work in both Bayesian and frequentist (nonparametric) statistics, with a stronger preference for the former.\nMy time is approximately equally split between research, teaching, and administration — and I actually enjoy all three. My research may not — or rather, will not — change the world but I firmly believe that we can change lives through education that is free or, at the very least, accessible."
+    "text": "About me\nI am a Reader (equivalent to an Associate Professor outside the UK) in the School of Mathematics at the University of Edinburgh, where I am currently Director of Teaching.\nMy time is split between research, teaching, and administration — and I actually enjoy all three. My research may not — or rather, will not — change the world, but I firmly believe that we can change lives through education that is free or, at the very least, accessible."
   },
   {
     "objectID": "index.html#research",
     "href": "index.html#research",
     "title": "Vanda Inacio",
     "section": "Research",
-    "text": "Research\nMy work centres on how well diagnostic tests and biomarkers distinguish between disease stages, and on how factors such as age and gender change that accuracy.\nI pioneered the development of methods for inference about several summary measures of diagnostic accuracy — the partial area under the ROC curve, the Youden index and the covariate-adjusted ROC curve — that make no assumptions about the distribution of test outcomes in each population, or about how covariates relate to those outcomes. I was also the first to develop summary measures of diagnostic accuracy that account for a functional (curve-valued) covariate (Biostatistics, 2012).\nMany of these methods are freely available in the R package ROCnReg. More details are on the Publications and Software pages."
+    "text": "Research\nI work in biostatistics, mainly on the statistical evaluation of biomarkers and diagnostic tests: how well they distinguish between disease stages, and how factors such as age and gender change that accuracy. I use both Bayesian and frequentist (nonparametric) methods, with a preference for the former.\nI developed some of the first methods for inference about several summary measures of diagnostic accuracy — the partial area under the ROC curve, the Youden index and the covariate-adjusted ROC curve — that make no assumptions about the distribution of test outcomes in each population, or about how covariates relate to those outcomes. I also introduced the first measure of diagnostic accuracy that accounts for a functional (curve-valued) covariate (Biostatistics, 2012).\nMore recently, with colleagues, I proposed the underlap coefficient, a measure of how well a biomarker distinguishes between more than two disease stages (Biometrics, 2026).\nMany of these methods are freely available in the R package ROCnReg. More details are on the Publications and Software pages."
   },
   {
     "objectID": "miscellanea.html",
     "href": "miscellanea.html",
     "title": "Miscellanea",
     "section": "",
-    "text": "Associate Editor, Statistics and Computing (since 06/2026). [Link]\nAssociate Editor, Statistics in Medicine (since 02/2025). [Link]\nAssociate Editor, Statistical Modelling (since 02/2025). [Link]\nBook Reviews Editor, Journal of Agricultural, Biological and Environmental Statistics (since 02/2024). [Link]\n\n\n\n\n\nProgram Chair, Section on Bayesian Education Research and Practice (BERaP), International Society for Bayesian Analysis (01/2026–12/2027). [Link]\nExecutive Committee member, Statistical Modelling Society (01/2025–12/2026). [Link]\n\n\n\n\n\nScientific Committee, International Workshop on Statistical Modelling (IWSM) 2027. [Link]\nScientific Program Committee, International Joint Conference CFE-CMStatistics: 20th edition, 2026 [Link]; 19th edition, 2025 [Link].\n\n\n\n\n\nExternal Examiner, University of Stirling (10/2024–08/2028)."
+    "text": "Associate Editor, Statistics and Computing (since 06/2026). [Link]\nAssociate Editor, Statistics in Medicine (since 02/2025). [Link]\nAssociate Editor, Statistical Modelling (since 02/2025). [Link]\nBook Reviews Editor, Journal of Agricultural, Biological and Environmental Statistics (since 02/2024). [Link]\n\n\n\n\n\nProgram Chair, Section on Bayesian Education Research and Practice (BERaP), International Society for Bayesian Analysis (01/2026–12/2027). [Link]\nExecutive Committee member, Statistical Modelling Society (01/2025–12/2026). [Link]\n\n\n\n\n\nScientific Committee, International Workshop on Statistical Modelling (IWSM) 2027. [Link]\nScientific Program Committee, International Joint Conference CFE-CMStatistics: 20th edition, 2026 [Link]; 19th edition, 2025 [Link].\nScientific Committee, XXVII Meeting of the Portuguese Statistical Society (2025).\nLeading local organiser, ISBA World Meeting, Edinburgh (2018; around 750 delegates).\n\n\n\n\n\nExternal Examiner, University of Stirling (10/2024–08/2028).\nExternal PhD Examiner, NOVA University Lisbon (10/2026) and University of Santiago de Compostela (02/2021)."
   },
   {
     "objectID": "miscellanea.html#service-to-the-profession",
     "href": "miscellanea.html#service-to-the-profession",
     "title": "Miscellanea",
     "section": "",
-    "text": "Associate Editor, Statistics and Computing (since 06/2026). [Link]\nAssociate Editor, Statistics in Medicine (since 02/2025). [Link]\nAssociate Editor, Statistical Modelling (since 02/2025). [Link]\nBook Reviews Editor, Journal of Agricultural, Biological and Environmental Statistics (since 02/2024). [Link]\n\n\n\n\n\nProgram Chair, Section on Bayesian Education Research and Practice (BERaP), International Society for Bayesian Analysis (01/2026–12/2027). [Link]\nExecutive Committee member, Statistical Modelling Society (01/2025–12/2026). [Link]\n\n\n\n\n\nScientific Committee, International Workshop on Statistical Modelling (IWSM) 2027. [Link]\nScientific Program Committee, International Joint Conference CFE-CMStatistics: 20th edition, 2026 [Link]; 19th edition, 2025 [Link].\n\n\n\n\n\nExternal Examiner, University of Stirling (10/2024–08/2028)."
+    "text": "Associate Editor, Statistics and Computing (since 06/2026). [Link]\nAssociate Editor, Statistics in Medicine (since 02/2025). [Link]\nAssociate Editor, Statistical Modelling (since 02/2025). [Link]\nBook Reviews Editor, Journal of Agricultural, Biological and Environmental Statistics (since 02/2024). [Link]\n\n\n\n\n\nProgram Chair, Section on Bayesian Education Research and Practice (BERaP), International Society for Bayesian Analysis (01/2026–12/2027). [Link]\nExecutive Committee member, Statistical Modelling Society (01/2025–12/2026). [Link]\n\n\n\n\n\nScientific Committee, International Workshop on Statistical Modelling (IWSM) 2027. [Link]\nScientific Program Committee, International Joint Conference CFE-CMStatistics: 20th edition, 2026 [Link]; 19th edition, 2025 [Link].\nScientific Committee, XXVII Meeting of the Portuguese Statistical Society (2025).\nLeading local organiser, ISBA World Meeting, Edinburgh (2018; around 750 delegates).\n\n\n\n\n\nExternal Examiner, University of Stirling (10/2024–08/2028).\nExternal PhD Examiner, NOVA University Lisbon (10/2026) and University of Santiago de Compostela (02/2021)."
+  },
+  {
+    "objectID": "miscellanea.html#service-at-the-university-of-edinburgh",
+    "href": "miscellanea.html#service-at-the-university-of-edinburgh",
+    "title": "Miscellanea",
+    "section": "Service at the University of Edinburgh",
+    "text": "Service at the University of Edinburgh\nAll roles in the School of Mathematics.\n\nDirector of Teaching (75% FTE, since 05/2026).\nDirector of Students (30% FTE, 09/2024–04/26).\nYear 3 Organiser (2020/21–2023/24).\nData and Decisions Teaching Theme Representative (2020/21–2023/24).\nMSc Project Organiser (2018/19).\nMember, Good Practice Committee (2017/18–2019/20).\nStatistics Group Seminar Organiser (2017)."
+  },
+  {
+    "objectID": "miscellanea.html#impact-and-engagement",
+    "href": "miscellanea.html#impact-and-engagement",
+    "title": "Miscellanea",
+    "section": "Impact and Engagement",
+    "text": "Impact and Engagement\n\nUK Infected Blood Inquiry (2022). With the Scottish National Blood Transfusion Service (NHS), I studied survival after blood transfusion and how age at first transfusion, sex and the number of red-cell units received affect it. The work was carried out at the request of the Inquiry. [Report] [Scottish Government response] [BBC coverage]\nASA DataFest at the University of Edinburgh (2024–2026). Co-organiser of the American Statistical Association’s data-analysis hackathon for students. Our experience is described in Sharifi Far et al. (2026), Teaching Statistics. [Paper] [2026 website]\nTaster lecture for prospective undergraduates: Can We Trust a Positive Test? A Statistical Perspective on Medical Diagnosis (2026). [Slides]"
   },
   {
     "objectID": "miscellanea.html#quotes",
     "href": "miscellanea.html#quotes",
     "title": "Miscellanea",
     "section": "Quotes",
-    "text": "Quotes\n\nThe past is a foreign country; they do things differently there.\n— L.P. Hartley, The Go-Between\n\n\nWhere all think alike, no one thinks very much.\n— Walter Lippmann"
+    "text": "Quotes\n\nThe past is a foreign country; they do things differently there.\n— L.P. Hartley\n\n\nWhere all think alike, no one thinks very much.\n— Walter Lippmann"
   },
   {
     "objectID": "software.html",

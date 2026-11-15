@@ -14,18 +14,39 @@ title: Miscellanea
 - **Program Chair**, Section on Bayesian Education Research and Practice (BERaP), International Society for Bayesian Analysis (01/2026--12/2027). [\[Link\]](https://berap-isba.github.io/)
 - **Executive Committee member**, Statistical Modelling Society (01/2025--12/2026). [\[Link\]](http://www.statmod.org/)
 
-### Scientific committees
+### Conference organisation and committees
 - **Scientific Committee**, International Workshop on Statistical Modelling (IWSM) 2027. [\[Link\]](https://iwsm2027.com/program/committees.html)
 - **Scientific Program Committee**, International Joint Conference CFE-CMStatistics: 20th edition, 2026 [\[Link\]](https://www.cmstatistics.org/CFECMStatistics2026/committees.php); 19th edition, 2025 [\[Link\]](https://www.cmstatistics.org/CFECMStatistics2025/committees.php).
+- **Scientific Committee**, XXVII Meeting of the Portuguese Statistical Society (2025).
+- **Leading local organiser**, ISBA World Meeting, Edinburgh (2018; around 750 delegates).
 
-### External examining
+### Examining
 - **External Examiner**, University of Stirling (10/2024--08/2028).
+- **External PhD Examiner**, NOVA University Lisbon (10/2026) and University of Santiago de Compostela (02/2021).
+
+## Service at the University of Edinburgh
+
+All roles in the School of Mathematics.
+
+- **Director of Teaching** (75% FTE, since 05/2026).
+- **Director of Students** (30% FTE, 09/2024--04/26).
+- **Year 3 Organiser** (2020/21--2023/24).
+- **Data and Decisions Teaching Theme Representative** (2020/21--2023/24).
+- **MSc Project Organiser** (2018/19).
+- **Member**, Good Practice Committee (2017/18--2019/20).
+- **Statistics Group Seminar Organiser** (2017).
+
+## Impact and Engagement
+
+- **UK Infected Blood Inquiry** (2022). With the Scottish National Blood Transfusion Service (NHS), I studied survival after blood transfusion and how age at first transfusion, sex and the number of red-cell units received affect it. The work was carried out at the request of the Inquiry. [\[Report\]](https://www.infectedbloodinquiry.org.uk/sites/default/files/documents/WITN7586003%20-%20%2522%20Scotland%27s%20covariate-adjusted%20survival%20to%2031December%202019%20for%201999-cohort%20and%202004-cohort%2522%2C%20%2008%20December%202022%20.pdf) [\[Scottish Government response\]](https://www.gov.scot/publications/first-minister-responds-uk-infected-blood-inquiry-final-report/) [\[BBC coverage\]](https://www.bbc.co.uk/news/articles/crgg2nx31j0o)
+- **ASA DataFest at the University of Edinburgh** (2024--2026). Co-organiser of the American Statistical Association's data-analysis hackathon for students. Our experience is described in Sharifi Far et al. (2026), *Teaching Statistics*. [\[Paper\]](https://doi.org/10.1111/test.12404) [\[2026 website\]](https://edi-datafest26.netlify.app/)
+- **Taster lecture** for prospective undergraduates: *Can We Trust a Positive Test? A Statistical Perspective on Medical Diagnosis* (2026). [\[Slides\]](files/slides_taster_lecture.pdf)
 
 ## Quotes
 
 > The past is a foreign country; they do things differently there.
 >
-> --- L.P. Hartley, *The Go-Between*
+> --- L.P. Hartley
 
 > Where all think alike, no one thinks very much.
 >
